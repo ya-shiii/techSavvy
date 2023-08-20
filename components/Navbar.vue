@@ -18,7 +18,8 @@ const toggleMobileMenu = () => {
 
 <template>
   <div class="navbar fixed top-0 left-0 w-full z-50 bg-[#03372A] cursor-pointer ">
-    <div class="container mx-auto px-4">
+    <div class="container mx-auto px-4 flex justify-between">
+      <div><img src="~/assets/icons/TS_Logo.png" class="w-20 h-auto object-cover bg-[#03372A]"></div>
       <div class="flex justify-between items-center sm:py-0 py-4">
 
         <!-- Mobile Menu Toggle -->

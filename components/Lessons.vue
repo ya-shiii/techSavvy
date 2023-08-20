@@ -6,34 +6,34 @@
 
       <!-- boxes content -->
       <div class="lg:flex w-full items-stretch px-5">
-        <div class="bg-[#D9D9D9] self-center lg:min-h-80 lg:w-1/5 sm:w-full lg:h- m-3 py-5 px-4 text-center justify-center 
+        <div class="bg-[#f7f7f7] self-center lg:min-h-80 lg:w-1/5 sm:w-full lg:h- m-3 py-5 px-4 text-center justify-center 
           blue-shadow animate-zoom">
           <p class="text-[#076269] font-bold text-2xl mb-10">FIGMA</p>
           <p class="lg:h-72 mb-8">Collaborative web-based application to create interface designs for User Interface and User
             Experience. The web-based UX/UI design platform allows you to work in a centralized, collaborative space where
             countless tools meet to create a unique, customized workflow.</p>
         </div>
-        <div class="bg-[#D9D9D9] self-center lg:min-h-80 lg:w-1/5  sm:w-full m-3 py-5 px-4 text-center justify-center 
+        <div class="bg-[#f7f7f7] self-center lg:min-h-80 lg:w-1/5  sm:w-full m-3 py-5 px-4 text-center justify-center 
           blue-shadow animate-zoom">
           <p class="text-[#076269] font-bold text-2xl mb-10">HTML | CSS | JAVASCRIPT</p>
           <p class="lg:h-72 mb-10">The baseline for creating a website, these three are the languages that will be used
             primarily to create the concepts of the clients' e-Resume. HTML for formatting the layout of the website, CSS
             for the design of the website, Javascript for the functionality of the website.</p>
         </div>
-        <div class="bg-[#D9D9D9] self-center lg:min-h-80 lg:w-1/5 sm:w-full m-3 py-5 px-4 text-center justify-center 
+        <div class="bg-[#f7f7f7] self-center lg:min-h-80 lg:w-1/5 sm:w-full m-3 py-5 px-4 text-center justify-center 
           blue-shadow animate-zoom">
           <p class="text-[#076269] font-bold text-2xl mb-10">NUXT | TAILWINDCSS | TYPESCRIPT</p>
           <p class="lg:h-72 mb-12"> The advance versions of the baseline website languages. Nuxt to be used as a framework where
             we will build websites, Tailwindcss, a CSS framework to design the website, and lastly, Typescript which is a
             language built on top of Javascript created to be a better experience than base Javascript.</p>
         </div>
-        <div class="bg-[#D9D9D9] self-center lg:min-h-80 lg:w-1/5 sm:w-full m-3 py-5 px-4  text-center justify-center 
+        <div class="bg-[#f7f7f7] self-center lg:min-h-80 lg:w-1/5 sm:w-full m-3 py-5 px-4  text-center justify-center 
           blue-shadow animate-zoom">
           <p class="text-[#076269] font-bold text-2xl mb-10">PYTHON</p>
           <p class="lg:h-72 mb-12">Python is a general-purpose, versatile, and powerful programming language. It's a great first
             language because Python code due to its conciseness and understandability.</p>
         </div>
-        <div class="bg-[#D9D9D9] self-center lg:min-h-80 lg:w-1/5 sm:w-full m-3 py-5 px-4 text-center justify-center 
+        <div class="bg-[#f7f7f7] self-center lg:min-h-80 lg:w-1/5 sm:w-full m-3 py-5 px-4 text-center justify-center 
           blue-shadow animate-zoom">
           <p class="text-[#076269] font-bold text-2xl mb-10">DJANGO</p>
           <p class="lg:h-72 mb-6">Django is a high-level Python web framework that encourages rapid development and clean,

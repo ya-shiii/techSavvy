@@ -25,11 +25,11 @@
   text-shadow: 5px 5px 0 black, 5px 5px 0 black, 5px 5px 0 black, 5px 5px 0 black;
 }
 .circle {
-  @apply w-24 h-24 md:w-52 md:h-52 rounded-full bg-[#D6D6D6] -ml-4 absolute top-1/2 left-0 transform -translate-y-1/2;
+  @apply w-24 h-24 md:w-52 md:h-52 rounded-full bg-[#f7f7f7] -ml-4 absolute top-1/2 left-0 transform -translate-y-1/2;
 }
 
 .circle2 {
-  @apply w-24 h-24 md:w-52 md:h-52 rounded-full bg-[#D6D6D6] -mr-4 absolute top-1/2 right-0 transform -translate-y-1/2;
+  @apply w-24 h-24 md:w-52 md:h-52 rounded-full bg-[#f7f7f7] -mr-4 absolute top-1/2 right-0 transform -translate-y-1/2;
 }
 
 .custom-border {

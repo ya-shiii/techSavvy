@@ -1,7 +1,7 @@
 <template>
     <div class="bg-[#056951] lg:pt-2 pt-16" id="benefits">
         <div class="BG bg-[#056951] w-full cursor-default pt-16" >
-            <div class="bg-[#D9D9D9] lg:ml-10 sm:ml-5 lg:rounded-l-3xl sm:place-content-center lg:p-5 lg:mt-20 dropshadow1">
+            <div class="bg-[#f7f7f7] lg:ml-10 sm:ml-5 lg:rounded-l-3xl sm:place-content-center lg:p-5 lg:mt-20 dropshadow1">
                 <h1 class="text-5xl text-center text-white lg:py-8 py-14 uppercase font-black text-outline ">like what you
                     see?</h1>
                 <div class="lg:flex sm:grid lg:px-5 sm:mx-2 pb-10">
